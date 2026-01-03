@@ -1,6 +1,6 @@
 body{
   font-family: "Arial", Times, serif;
-  background: #ADD8E6;
+  background: #B0E0E6;
   color: #000000;
   max-width: 900px;
   margin: 0 auto;
@@ -8,8 +8,16 @@ body{
   line-height: 1.3;
 }
 
-h1, h2, h3, h4, h5, h6{
-  color: #4682B4;
+h1{
+color: #B0C4DE;
+  font-size: 22px;
+  margin-top: 28px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  }
+
+h2, h3, h4, h5, h6{
+  color: #B0C4DE;
   font-size: 22px;
   margin-top: 28px;
   margin-bottom: 10px;
