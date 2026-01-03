@@ -1,36 +1,27 @@
 body{
-  font-family: Times New Roman, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   background:#ADD8E6;
   color:#000000;
   max-width: 900px;
   margin: 0 auto;
   padding: 20px;
   line-height: 1.3;
-   text-align: justify;
 }
 
-h1{
+h1, h2, h3, h4, h5, h6{
   color:#4682B4;
-   text-align: justify;
 }
 
-h2{
-  color:#4682B4;
-   text-align: justify;
-}
-h3{
-  color:#4682B4;
-   text-align: justify;
-}
-h4{
-  color:#4682B4;
-   text-align: justify;
-}
 p{
   background: white;
   padding: 10px 12px;
   border-radius: 10px;
   text-align: justify;
+  hyphens: auto;
+}
+
+strong, b{
+  color:#4682B4;
 }
 
 img{
@@ -38,5 +29,4 @@ img{
   height: auto;
   border-radius: 12px;
   margin: 12px 0;
-   text-align: justify;
 }
